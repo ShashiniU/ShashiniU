@@ -24,11 +24,8 @@
 
  <br />
 
- <h3 align="left">Spotify Playing 🎧</h3>
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 <br />
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiniU&layout=compact">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
