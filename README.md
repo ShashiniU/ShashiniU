@@ -7,7 +7,7 @@
 
 <br />
 
-- 🔭 I’m Shashini, MIS Undergraduate **at NSBM,SL**
+- 🔭 I’m Shashini, MIS Undergraduate **at NSBM Green University**
 
 - 🌱 I’m currently learning **everything**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shashiuwanshi97@gmail.com**
 
-- ⚡ Fun fact: **I Love to read and listen to music**
+- ⚡ Fun fact: **I love to learn new things**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
