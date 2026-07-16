@@ -7,7 +7,7 @@
 
 <br />
 
-- 🔭 I’m Shashini, MIS Undergraduate **at NSBM Green University**
+- 🔭 I’m Shashini, Master of Data Science student at **Griffith University, Australia**, Graduated in MIS **at NSBM Green University, Sri Lanka**
 
 - 🌱 I’m currently learning **everything**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **GitHub**
 
-- 📫 How to reach me **shashiuwanshi97@gmail.com**
+<!--- 📫 How to reach me **shashiuwanshi97@gmail.com**-->
 
 - ⚡ Fun fact: **I love to learn new things**
 
