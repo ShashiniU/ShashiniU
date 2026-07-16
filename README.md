@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there 👋, I'm Shashini</h1>
-<h3 align="center">I'm a Data Science student and Software Developer</h3>
+<h3 align="center">I'm a Data Science student and Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashiniU&label=Profile%20views&color=0e75b6&style=flat" alt="Shashini" /> </p>
 
@@ -7,7 +7,7 @@
 
 <br />
 
-- 🔭 I’m Shashini, Master of Data Science student at **Griffith University, Australia**, Graduated in MIS **at NSBM Green University, Sri Lanka**
+- 🔭 Master of Data Science student at **Griffith University, Australia**, Graduated in MIS **at NSBM Green University, Sri Lanka**
 
 - 🌱 I’m currently learning **everything**
 
